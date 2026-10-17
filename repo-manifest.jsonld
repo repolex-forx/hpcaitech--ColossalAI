@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hpcaitech/ColossalAI/commit/250c903c8212a65a8ae8c9af007ba08c7eff02b5",
       "git:hexsha": "250c903c8212a65a8ae8c9af007ba08c7eff02b5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hpcaitech/ColossalAI/commit/3245a69fc22b0a196d69ae17f56b2cf06ed44664",
