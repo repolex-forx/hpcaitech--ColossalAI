@@ -1,0 +1,11 @@
+{
+  "org": "hpcaitech",
+  "repo": "ColossalAI",
+  "versions": [
+    {
+      "commit": "250c903c8212a65a8ae8c9af007ba08c7eff02b5",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:09:32.949505+00:00"
+    }
+  ]
+}
